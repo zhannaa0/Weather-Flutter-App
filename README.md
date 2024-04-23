@@ -1,6 +1,8 @@
 # midterrm
 
-A new Flutter project.
+# Weather APP Report
+My Weather App is a mobile application designed to provide users with current weather information based on the city they input. The app retrieves weather data from the OpenWeatherMap API and displays it in a user-friendly interface.
+
 
 ## Getting Started
 
